@@ -1,5 +1,5 @@
 return {
-  { "supermaven-inc/supermaven-nvim", enabled = true },
+  { "supermaven-inc/supermaven-nvim", enabled = false },
 
   { "eclipse-lemminx/lemminx", enabled = false },
 }
